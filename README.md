@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @meyerkev
+- 👀 I’m interested in ops, devops, SRE, doing the work to be incredibly lazy
+- 🌱 I’m currently learning by setting up a homelab buildout for Kubernetes and self-hosted Docker registries
+- 💞️ I’m looking to collaborate on anything that my employer will legally let me do and that's willing to put up with oncall schedules.  
+- 📫 How to reach me: meyerkev248@gmail.com
